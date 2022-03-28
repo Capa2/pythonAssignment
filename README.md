@@ -14,9 +14,9 @@ https://www.kaggle.com/sanjeetsinghnaik/top-1000-highest-grossing-movies
 100%, however DataFrame usage and bar chart formatting could use some work.
 
 ### Execution
-Add assignment01.ipnb to docker_notebooks/notebooks/my_work
-add Highest Holywood Grossing Movies.csv to docker_notebooks/notebooks/data
-run assignment01.ypnb from jupiter notebook
+Add assignment01.ipynb to notebooks/my_work
+add Highest Holywood Grossing Movies.csv to notebooks/data
+run assignment01.ipynb from jupiter notebook
 
 ### Result
 ![Result](https://github.com/Capa2/pythonAssignment/blob/main/result.PNG?raw=true)
